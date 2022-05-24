@@ -4,4 +4,6 @@ Terraform/.terraform.lock.hcl
 creates3/.terraform*
 creates3/terraform.tfstate
 creates3/.terraform.lock.hcl
+**/.terraform/*
+**/terraform.tfstate*
  
